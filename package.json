@@ -1,6 +1,6 @@
 {
   "name": "millionaire-node",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -20,6 +20,8 @@
   "dependencies": {
     "axios": "^1.6.7",
     "inquirer": "^9.2.15",
+    "react-native-email-tag-input": "^1.0.0",
+    "validatetc": "^1.0.1",
     "yargs": "^17.7.2"
   }
 }
